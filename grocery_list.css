@@ -1,0 +1,73 @@
+html{
+    background-color: peachpuff;
+    height: 100px;
+}
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+text-align: center;
+color:lightpink
+}
+
+#liv{
+    background-color: whitesmoke;
+    font-size: x-large;
+}
+
+#main{
+    background-color: gold;
+    text-align: center;
+}
+
+#proteins{
+    background-color: lightyellow;
+    margin: 10px;
+}
+
+#dairy{
+    background-color: lightyellow;
+    margin: 10px;
+}
+
+#extra{
+    background-color: skyblue;
+    text-align: center;
+}
+
+#snacks{
+    background-color: lightcyan;
+    margin: 10px;
+}
+
+#drinks{
+    background-color: lightcyan;
+    margin: 10px;
+}
+
+.boldedText{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.UnderlineText{
+    font-family: cursive;
+}
+
+div {
+    box-sizing: content-box;
+    border: 2px black solid;
+    padding: 5px;
+}
+
+.column{
+    float: auto;
+    width: 50%;
+}
+
+img{
+    display: inline-block;
+    margin:25px 
+}
